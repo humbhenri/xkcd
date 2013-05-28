@@ -1,4 +1,4 @@
-Script to download xicd comics written in Common Lisp (SBCL)
+Script to download xkcd comics written in Common Lisp (SBCL)
 
 - Usage
 sbcl --script xkcd.lisp <number> <path>
