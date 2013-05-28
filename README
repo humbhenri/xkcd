@@ -1,0 +1,10 @@
+Script to download xicd comics written in Common Lisp (SBCL)
+
+- Usage
+sbcl --script xkcd.lisp <number> <path>
+
+- Dependencies
+SBCL
+Quicklisp
+
+- Tested on Mac OS X 10.8
